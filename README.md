@@ -47,5 +47,7 @@ Tests
 All the code is tested with the unittest module. The test for the classes are in the test_models folder.
 
 Authors
-Mercy Runo - 
-Frankline Kiptoo <franklinekiptoo86@gmail.com>
+
+Mercy Runo -
+
+Frankline Kiptoo - <franklinekiptoo86@gmail.com>
