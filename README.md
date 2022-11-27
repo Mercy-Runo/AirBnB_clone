@@ -48,6 +48,6 @@ All the code is tested with the unittest module. The test for the classes are in
 
 Authors
 
-Mercy Runo -
+Mercy Runo - <mercyruno37@gmail.com>
 
 Frankline Kiptoo - <franklinekiptoo86@gmail.com>
